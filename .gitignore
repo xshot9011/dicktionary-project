@@ -1,4 +1,4 @@
-*.env
+/*/*.env
 
 # Created by https://www.toptal.com/developers/gitignore/api/django,pycharm,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=django,pycharm,visualstudiocode
@@ -120,7 +120,7 @@ celerybeat.pid
 
 # Environments
 # .env
-.env/
+dictionary/.env/
 .venv/
 env/
 venv/
